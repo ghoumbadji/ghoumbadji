@@ -10,7 +10,8 @@
 I'm Georges HOUMBADJI. I'm currently in third year at EPITECH. I particularly like mathematics and all relative fields. My love for the mathematics and for providing solutions to daily problems lead me at data science field. Since, **make an overpowered world through a more ethic and more proficient AI** is my main objective and I'll do all I can to realize this. You can reach me to talk about Artificial Intelligence. 
 
 
-## Skills <img src="https://static.onzemondial.com/photo_article/730670/286854/1200-L-psg-real-madrid-dj-dans-le-dur-messi-doit-enrayer-une-srie-terrible-face-aux-merengue.jpg" width="300">
+## Skills 
+<img src="https://cdn.je-dois-reussir.com/wp-content/uploads/2019/12/Soft-Skill.png" width="300">
 ### Languages
 ![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
