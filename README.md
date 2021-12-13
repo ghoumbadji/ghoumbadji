@@ -21,4 +21,4 @@ I'm Georges HOUMBADJI. I'm currently in third year at EPITECH. I like Artificial
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### How to reach me ?
-[![Linkedin: georges-houmbadji](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georges-houmbadji-a526b41a0/
+[![Linkedin: georges-houmbadji](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georges-houmbadji-a526b41a0){:height="50px" width="40px"}
