@@ -10,7 +10,7 @@
 I'm Georges HOUMBADJI. I'm currently in third year at EPITECH. I particularly like mathematics and all relative fields. My love for the mathematics and for providing solutions to daily problems lead me at data science field. Since, **make an overpowered world through a more ethic and more proficient AI** is my main objective and I'll do all I can to realize this. You can reach me to talk about Artificial Intelligence. 
 
 
-## Skills
+## Skills <img src="https://i.gifer.com/CxrL.gif" width="300">
 ### Languages
 ![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,5 +28,5 @@ I'm Georges HOUMBADJI. I'm currently in third year at EPITECH. I particularly li
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-### How to reach me ?
+## How to reach me ?
 [![Linkedin: georges-houmbadji](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georges-houmbadji-a526b41a0)
