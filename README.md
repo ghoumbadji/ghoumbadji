@@ -1,4 +1,5 @@
-### Hi there. Welcome to my github page 👋
+### Hi there. Welcome to my github page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+
 
 <!--
 **GeorgesML/GeorgesML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Artificial Intelligence
 - 📫 How to reach me: georgesbryandhoumbadji@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Google fanatic
+- ⚡ Fun fact: I love Google
