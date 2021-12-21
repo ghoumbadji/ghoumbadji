@@ -5,4 +5,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Google fanatic 
 
-![Georges's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmoroney&show_icons=true&theme=great-gatsby)
+![Georges's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgesML&show_icons=true&theme=great-gatsby)
