@@ -8,4 +8,4 @@
 
 ### 📊 GitHub Stats:
 ---
-![Georges's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghoumbadji&show_icons=true&theme=default)
+![Georges's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghoumbadji&show_icons=true&theme=github_dark)
