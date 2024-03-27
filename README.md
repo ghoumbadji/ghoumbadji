@@ -1,11 +1,10 @@
-### Hi there 👋. I'm Georges HOUMBADJI. Welcome to my github page
----
+<h2 align="center">Hi there 👋</h2>
 
-- 🔭 I’m currently working with Python, Mathematics, SQL and TensorFlow
-- 💬 Ask me anything about computer science, data science and artificial intelligence
-- 📫 How to reach me: georgesbryandhoumbadji@gmail.com
-- ⚡ Fun fact: Leo Messi pupil 
-
-### 📊 GitHub Stats:
 ---
-![Georges's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghoumbadji&show_icons=true&theme=github_dark)
+I'm Georges HOUMBADJI, a Graduate Student at ECE Paris.
+
+I have a Bachelor's degree in Information Technology from EPITECH, where I discovered and improved my expertise in computer science concepts. I have more than 2 years of experience in computer science and data analytics.
+
+My interests lie in using my statistical knowledge to make better decisions and developing large-scale machine learning systems. 
+
+You can reach me at: georgesbryandhoumbadji@gmail.com
